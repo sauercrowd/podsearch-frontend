@@ -1,0 +1,17 @@
+#main{
+    display: flex;
+    flex-grow: 1;
+}
+
+#search-container{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+#search-container-vertical{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    color: white;
+}
